@@ -1,3 +1,8 @@
+67
+0
+
+
+finalizar(=100%)
 ---
 manufacturer: 
     - motorola
